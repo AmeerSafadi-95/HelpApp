@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HelpApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HelpApp/static/js/main.c7a57fc5.chunk.js",
+    "main.js.map": "/HelpApp/static/js/main.c7a57fc5.chunk.js.map",
+    "runtime-main.js": "/HelpApp/static/js/runtime-main.5bcf91ec.js",
+    "runtime-main.js.map": "/HelpApp/static/js/runtime-main.5bcf91ec.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/HelpApp/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2fe0f253.chunk.js": "/HelpApp/static/js/2.2fe0f253.chunk.js",
+    "static/js/2.2fe0f253.chunk.js.map": "/HelpApp/static/js/2.2fe0f253.chunk.js.map",
+    "index.html": "/HelpApp/index.html",
+    "precache-manifest.2911c0e7d802b84968c4d73e527aa256.js": "/HelpApp/precache-manifest.2911c0e7d802b84968c4d73e527aa256.js",
+    "service-worker.js": "/HelpApp/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/HelpApp/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/HelpApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2fe0f253.chunk.js.LICENSE.txt": "/HelpApp/static/js/2.2fe0f253.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bcf91ec.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2fe0f253.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c7a57fc5.chunk.js"
+  ]
+}
